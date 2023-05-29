@@ -28,4 +28,5 @@ h2 {
 img.check{
     float: right;
     width: 25px;
+    vertical-align: middle;
 }
