@@ -24,3 +24,8 @@ h2 {
     font-size: 1.5em;
     color: rgb(82, 7, 32);
 }
+
+img.check{
+    float: right;
+    width: 50px;
+}
